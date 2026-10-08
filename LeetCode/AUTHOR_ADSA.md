@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 65 (3.1%)
+- **Completed:** 3 / 65 (4.6%)
 
 ---
 
@@ -28,7 +28,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Delete the Middle Node of a Linked List
 
 ### 📂 Module  1.3: Duplicate Handling & List C
-- [ ] Remove Duplicates from Sorted List
+- [x] [Remove Duplicates from Sorted List](./C++/Easy/83. Remove Duplicates from Sorted List/)
 - [ ] Remove Duplicates from Sorted List II
 - [ ] Remove Nodes From Linked List
 - [ ] Merge Nodes in Between Zeros
