@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 65 (6.2%)
+- **Completed:** 5 / 65 (7.7%)
 
 ---
 
@@ -35,7 +35,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Insert Greatest Common Divisors in Linked List
 
 ### 📂 Module  1.4: Reordering, Palindrome & Pa
-- [ ] Palindrome Linked List
+- [x] [Palindrome Linked List](./C++/Easy/234. Palindrome Linked List/)
 - [ ] Reorder List
 - [ ] Next Greater Node In Linked List
 - [ ] Double a Number Represented as a Linked List
