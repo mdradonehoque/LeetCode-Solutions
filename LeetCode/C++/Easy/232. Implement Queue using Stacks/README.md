@@ -1,6 +1,6 @@
 # 📝 232. Implement Queue using Stacks (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/implement-queue-using-stacks/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
